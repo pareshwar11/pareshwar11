@@ -5,14 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareshwar11&label=Profile%20views&color=0e75b6&style=flat" alt="pareshwar11" /> </p>
 
-- 🔭 I’m currently learning **everything**
-
+- 🔭 I’m currently building project based on **ReactJs**
 
 - 👯 I’m looking to collaborate on **front-end**
 
 - 💬 Ask me about **Front-end Web Technologies and java**
 
 - 📫 How to reach me **pareshwarbharti2000@gmail.com**
+
+- 🌐 Visit my portfolio **https://pareshwar.vercel.app/**
 
 - ⚡ Fun fact **I am very boring**
 <br>
@@ -23,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pareshwar-bharti-332142171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pareshwar-bharti-332142171/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pareshwar/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pareshwar/practice/" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/pareshwar/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pareshwar/practice/" height="30" width="40" /></a> -->
 </p>
 <hr>
 </hr>
