@@ -14,8 +14,8 @@
 - 📫 How to reach me **pareshwarbharti2000@gmail.com**
 
 - 🌐 Visit my portfolio **https://pareshwar.vercel.app/**
-
-- ⚡ Fun fact **I am very boring**
+<!-- 
+- ⚡ Fun fact **I love to dance** -->
 <br>
 <br>
 <br>
