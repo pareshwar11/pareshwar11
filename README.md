@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareshwar11&label=Profile%20views&color=0e75b6&style=flat" alt="pareshwar11" /> </p>
 
-- 🔭 I’m currently building project based on **ReactJs**
+- 🔭 I’m currently building a project based on **WordPress**
 
 - 👯 I’m Currently working as web-dev at **ScaleX.club**
 
