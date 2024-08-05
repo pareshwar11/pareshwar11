@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently building project based on **ReactJs**
 
-- 👯 I’m looking to collaborate on **front-end**
+- 👯 I’m Currently working as web-dev at **ScaleX.club**
 
-- 💬 Ask me about **Front-end Web Technologies and java**
+- 💬 Ask me about **WordPress/Swipepages/Clickfunnel**
 
-- 📫 How to reach me **pareshwarbharti2000@gmail.com**
+- 📫 How to reach me **pareshwar09@gmail.com**
 
 - 🌐 Visit my portfolio **https://pareshwar.vercel.app/**
 <!-- 
